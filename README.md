@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Pedro Lara | Software Developer & Tech Enthusiast  <br><br>💻 Passionate about programming, cybersecurity, and technological innovation.  <br>🛠️ Currently expanding my skills in JavaScript and exploring ethical hacking.  <br>🎯 Goals: Enhance my coding expertise, dive deeper into cybersecurity, and contribute to impactful projects.  <br>🌌 Enthusiastic about space, technology, and problem-solving.  <br>🏊🏻‍♂️ Outside of coding, I enjoy training and pushing my physical limits.  <br><br>⌚ Have a good watch. Time is precious.</p>
+<p align="left">🕴🏻 Pedro Lara | Software Developer & Hacking Enthusiast  <br><br>💻 Passionate about programming, cybersecurity, and technological innovation.  <br>🛠️ Currently expanding my skills in JavaScript and exploring ethical hacking.  <br>🎯 Goals: Enhance my coding expertise, dive deeper into cybersecurity, and contribute to impactful projects.  <br>🌌 Enthusiastic about space, technology, and problem-solving.  <br>🏊🏻‍♂️ Outside of coding, I enjoy training and pushing my physical limits.  <br><br>⌚ Have a good watch. Time is precious.</p>
 
 ###
 
@@ -32,6 +32,8 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="40" alt="firefox logo"  />
 </div>
 
 ###
@@ -44,6 +46,21 @@
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=black&style=for-the-badge" height="40" alt="qt logo"  />
+</div>
+
+###
+
+<h2 align="left">Socials</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/pedro-de-lara/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/pedrolara04/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
