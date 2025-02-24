@@ -1,5 +1,5 @@
-<img src="[https://link-do-gif.com/animation.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fgifs%2Fsearch%2Funiverse%2F&psig=AOvVaw1axPmFO26NmcJvAfu1v05Z&ust=1740515272359000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPDbi-aS3YsDFQAAAAAdAAAAABAE
-)" alt="GIF animado" />
+![23-10-04-56_512](https://github.com/user-attachments/assets/385ecac8-3e31-4ef3-9f54-4c427f449f8b)
+
 
 <h1 align="left">Hey 👋🏻 What's up?</h1>
 
