@@ -7,9 +7,9 @@
 <h2 align="left">About me</h2>
 
 ###
-
-<p align="left">🕴🏻 Pedro Lara | Software Developer & Ethical Hacking Enthusiast  <br><br>💻 Passionate about programming, cybersecurity, and technological innovation.  <br>🛠️ Currently expanding my skills in JavaScript and exploring ethical hacking.  <br>🎯 Goals: Enhance my coding expertise, dive deeper into cybersecurity, and contribute to impactful projects.  <br>🌌 Enthusiastic about space, technology, and problem-solving.  <br>🏊🏻‍♂️ Outside of coding, I enjoy training and pushing my physical limits.  <br><br>⌚ "Have a good watch. Time is precious."</p>
 <img align="right" src="https://media2.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width='150'/> 
+<p align="left">🕴🏻 Pedro Lara | Software Developer & Ethical Hacking Enthusiast  <br><br>💻 Passionate about programming, cybersecurity, and technological innovation.  <br>🛠️ Currently expanding my skills in JavaScript and exploring ethical hacking.  <br>🎯 Goals: Enhance my coding expertise, dive deeper into cybersecurity, and contribute to impactful projects.  <br>🌌 Enthusiastic about space, technology, and problem-solving.  <br>🏊🏻‍♂️ Outside of coding, I enjoy training and pushing my physical limits.  <br><br>⌚ "Have a good watch. Time is precious."</p>
+
 
 ###
 
