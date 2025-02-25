@@ -1,4 +1,4 @@
-<img src="[https://github.com/user-attachments/assets/8d5f0530-daee-414e-9c99-fd9f54b934b2](https://upload.wikimedia.org/wikipedia/commons/4/4d/Wikidata_items_map_animation_%28Oct_2018_-_May_2019%29.gif)" width="1000" height="250" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Wikidata_items_map_animation_%28Oct_2018_-_May_2019%29.gif" width="1000" height="250" />
 
 
 <h1 align="left">Hey 👋🏻 What's up?</h1>
