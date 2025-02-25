@@ -1,7 +1,5 @@
 
 <h1 align="left">Hey 👋🏻 What's up?</h1>
-###
-
 <p align="left">My name is Pedro and I'm a software developer from Brazil! 🇧🇷</p>
 <img align="right" src="https://media2.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width='150'/> 
 
