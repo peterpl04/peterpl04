@@ -1,11 +1,9 @@
 
 <h1 align="left">Hey 👋🏻 What's up?</h1>
-
+<img align="right" src="https://media2.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width='150'/> 
 ###
 
 <p align="left">My name is Pedro and I'm a software developer from Brazil! 🇧🇷</p>
-
-<img src="https://camo.githubusercontent.com/606595b2ef84d1e52640bf56c1735f8cbc1cac024d3dd19dbee6b229b7b37f8d/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f7a68595356436972524565495a744f4e43492f67697068792e676966"/>
 
 ###
 
