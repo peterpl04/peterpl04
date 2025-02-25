@@ -1,4 +1,4 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Wikidata_items_map_animation_%28Oct_2018_-_May_2019%29.gif" width="1000" height="250" />
+<img src="https://raw.githubusercontent.com/peterpl04/peterpl04/output/snake.svg" alt="Snake animation" />
 
 
 <h1 align="left">Hey 👋🏻 What's up?</h1>
